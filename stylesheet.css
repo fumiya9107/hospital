@@ -250,10 +250,9 @@ body{
 
 .top-wrapper_phone2{
   background-color: #6b90db;
-  margin-left: 10px;
-  margin-right: 10px;
+  margin-left: 5px;
   border-radius: 5px;
-  padding:20px 20px 40px 20px;
+  padding:20px 20px 40px 10px;
   width:90%;
 }
 
@@ -294,10 +293,9 @@ body{
 .top-wrapper_reservation2{
   background-color: #DB8F81;
   margin-top: 20px;
-  margin-left: 10px;
-  margin-right: 10px;
+  margin-left: 5px;
   border-radius: 5px;
-  padding:20px 20px 40px 20px;
+  padding:20px 20px 40px 10px;
   width:90%;
 }
 
@@ -599,7 +597,7 @@ table thead tr{
 
 table thead tr th{
   color:white;
-  padding-right: 30px;
+  padding-right: 25px;
   padding-left: 10px;
 }
 
