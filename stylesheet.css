@@ -596,7 +596,7 @@ table thead tr{
 
 table thead tr th{
   color:white;
-  padding-right: 25px;
+  padding-right: 15px;
   padding-left: 10px;
 }
 
@@ -644,20 +644,25 @@ table tbody tr td{
   color:white;
 }
 
-.time2{
-  padding-top: 20px;
-  padding-bottom: 20px;
+.time_contents2{
+  display: flex;
+  margin-bottom: 10px;
+}
+
+.time3{
   color:white;
-  font-size: 22px;
+  margin-top: 5px;
+  margin-left: 5px;
   font-weight: bold;
 }
 
-.time2 span{
+.time2{
   color:#6b90db;
+  padding:5px;
   background-color: white;
   border-radius: 30px;
-  padding:10px 15px;
-  font-size: 16px;
+  padding:
+
 
 }
 
