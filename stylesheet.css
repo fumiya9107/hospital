@@ -269,7 +269,7 @@ body{
 .time{
   color:white;
   font-weight: bold;
-  margin-top: 8px;
+  margin-top: 18px;
   font-size: 20px;
 
 }
@@ -277,7 +277,7 @@ body{
 .time_text{
   color:#6b90db;
   background-color: white;
-  border-radius: 30px;
+  border-radius: 20px;
   padding:10px;
   font-weight: bold;
   margin-right: 10px;
@@ -661,7 +661,7 @@ table tbody tr td{
   padding:5px;
   background-color: white;
   border-radius: 30px;
-  font-weight:bold;
+  font-weight: bold;
 
 
 }
